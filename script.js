@@ -54,3 +54,8 @@ document.addEventListener('DOMContentLoaded', function() {
         });
     });
 });
+
+//TODO * innan något, publicera några vers till github
+//*try to access new funktions in firebase.js
+// *try to se if they can be viewed from firebase console
+// if not possible, try to show the existing code to gpt and make it adapt
